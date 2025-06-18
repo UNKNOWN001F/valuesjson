@@ -1,0 +1,118 @@
+{
+  "last_updated": "2025-06-17",
+  "pets": [
+    {
+      "name": "Raccoon",
+      "value": "15",
+      "ranged_value": "15 - 30",
+      "stability": "Doing-Well",
+      "demand": "⭐⭐⭐⭐⭐",
+      "origin": "Moon Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/90CCF0F5/Untitled64-20250618164837.png"
+    },
+    {
+      "name": "DragonFly",
+      "value": "8",
+      "ranged_value": "8 - 12",
+      "stability": "Doing-Well",
+      "demand": "⭐⭐⭐⭐⭐",
+      "origin": "Bug Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/SxDh6QTG/Dragonfly-Icon.png"
+    },
+    {
+      "name": "Queen Bee",
+      "value": "9",
+      "ranged_value": "9 - 12",
+      "stability": "Stable",
+      "demand": "⭐⭐⭐⭐",
+      "origin": "Bee Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/c4kxSf2f/Untitled64-20250618182741.png"
+    },
+    {
+      "name": "Disco Bee",
+      "value": "17",
+      "ranged_value": "17 - 35",
+      "stability": "Overpaid-For",
+      "demand": "⭐⭐⭐⭐⭐",
+      "origin": "Anti-Bee Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/RFm9RdJx/Untitled64-20250618183230.png"
+    },
+    {
+      "name": "Butterfly",
+      "value": "13",
+      "ranged_value": "13 - 25",
+      "stability": "Doing-Well",
+      "demand": "⭐⭐⭐⭐⭐",
+      "origin": "Anti-Bee Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/MTk7twXx/Untitled64-20250618213551.png"
+    },
+    {
+      "name": "Red Fox",
+      "value": "0.6",
+      "ranged_value": "0.6 - 1.4",
+      "stability": "Fluctuating",
+      "demand": "⭐⭐⭐⭐",
+      "origin": "Mythical Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/1zMSrmvV/Untitled64-20250618214125.png"
+    },
+    {
+      "name": "Chicken Zombie",
+      "value": "0.5",
+      "ranged_value": "0.5 - 1.3",
+      "stability": "Stable",
+      "demand": "⭐⭐⭐⭐",
+      "origin": "Chicken Zombie Update",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/L6Sy2t9R/Untitled64-20250618214202.png"
+    },
+    {
+      "name": "Cooked Owl",
+      "value": "0.3",
+      "ranged_value": "0.3 - 0.7",
+      "stability": "Over-Circulated",
+      "demand": "⭐⭐",
+      "origin": "Crafting Update",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/qMCkHdvW/Untitled64-20250618214140.png"
+    },
+    {
+      "name": "Bear Bee",
+      "value": "0.3",
+      "ranged_value": "0.3 - 0.6",
+      "stability": "Stable",
+      "demand": "⭐⭐",
+      "origin": "Bee Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/pd3km7jh/Untitled64-20250619000225.png"
+    
+    },
+    {
+      "name": "Moth",
+      "value": "0.3",
+      "ranged_value": "0.3 - 0.6",
+      "stability": "Stable",
+      "demand": "⭐⭐",
+      "origin": "Anti-Bee Egg",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/SsQpjnbt/Untitled64-20250619003623.png"
+    
+    },
+    {
+      "name": "Moon Cat",
+      "value": "0.5",
+      "ranged_value": "0.5 - 0.9",
+      "stability": "Fluctuating",
+      "demand": "⭐⭐⭐⭐",
+      "origin": "Twilight Shop",
+      "last_change": "0",
+      "image": "https://i.postimg.cc/qv959z7C/Untitled64-20250619005217.png"
+    
+    }
+  ]
+}
