@@ -3,12 +3,12 @@
   "pets": [
     {
       "name": "Raccoon",
-      "value": "15",
+      "value": "16",
       "ranged_value": "15 - 30",
-      "stability": "Doing-Well",
+      "stability": "Overpaid-For",
       "demand": "5",
       "origin": "Moon Egg",
-      "last_change": "0",
+      "last_change": "+1",
       "image": "https://i.postimg.cc/90CCF0F5/Untitled64-20250618164837.png"
     },
     {
@@ -24,7 +24,7 @@
     {
       "name": "Queen Bee",
       "value": "8",
-      "ranged_value": "8 - 12",
+      "ranged_value": "8 - 15",
       "stability": "Stable",
       "demand": "4",
       "origin": "Bee Egg",
@@ -33,12 +33,12 @@
     },
     {
       "name": "Disco Bee",
-      "value": "17",
-      "ranged_value": "17 - 35",
+      "value": "18",
+      "ranged_value": "18 - 35",
       "stability": "Overpaid-For",
       "demand": "5",
       "origin": "Anti-Bee Egg",
-      "last_change": "0",
+      "last_change": "+1",
       "image": "https://i.postimg.cc/RFm9RdJx/Untitled64-20250618183230.png"
     },
     {
@@ -63,12 +63,12 @@
     },
     {
       "name": "Chicken Zombie",
-      "value": "0.9",
-      "ranged_value": "0.9 - 1.3",
+      "value": "0.85",
+      "ranged_value": "0.85 - 1.4",
       "stability": "Stable",
       "demand": "4",
       "origin": "Chicken Zombie Update",
-      "last_change": "+0.3",
+      "last_change": "-0.05",
       "image": "https://i.postimg.cc/L6Sy2t9R/Untitled64-20250618214202.png"
     },
     {
@@ -94,23 +94,23 @@
     },
     {
       "name": "Moth",
-      "value": "0.3",
-      "ranged_value": "0.3 - 0.6",
+      "value": "0.35",
+      "ranged_value": "0.35 - 0.6",
       "stability": "Stable",
       "demand": "2",
       "origin": "Anti-Bee Egg",
-      "last_change": "0",
+      "last_change": "+0.05",
       "image": "https://i.postimg.cc/SsQpjnbt/Untitled64-20250619003623.png"
     
     },
     {
       "name": "Moon Cat",
-      "value": "0.5",
-      "ranged_value": "0.4 - 0.9",
+      "value": "0.45",
+      "ranged_value": "0.3 - 0.9",
       "stability": "Fluctuating",
       "demand": "4",
       "origin": "Twilight Shop",
-      "last_change": "0",
+      "last_change": "-0.05",
       "image": "https://i.postimg.cc/qv959z7C/Untitled64-20250619005217.png"
     
     }
